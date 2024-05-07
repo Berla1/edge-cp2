@@ -84,5 +84,5 @@ A tabela abaixo apresenta o esquema de funcionamento do sistema de umidade.
 |:----| :-----------------: | :------: |
 |Entre 50% e 70%| Umidade OK | Não|
 |Acima de 70%|Umidade Alta | Sim |
-|Abaixo de 50%|Umidade Baixa | Sim |
+|Abaixo de 50%|Umidade Baixa | Sim | 
 

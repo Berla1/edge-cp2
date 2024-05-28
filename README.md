@@ -71,7 +71,7 @@ A tabela abaixo mostra o esquema de como funciona a exibição dos valores para 
 |Acima de 15°C|Temp. Alta | Sim |
 |Abaixo de 10°C|Temp. Baixa | Sim | 
 
-### Humidade
+### Umidade
 
 A falta de umidade pode levar, por exemplo, ao ressecamento do vedante, provocando uma má vedação da garrafa, com risco de oxidação do líquido.Já o excesso de umidade pode danificar os rótulos, bem como promover a proliferação de fungos.O ideal é que seja próxima a 70% (com variação em torno de 60% a 80%).
 
